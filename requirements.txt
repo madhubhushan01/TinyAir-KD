@@ -1,0 +1,8 @@
+numpy
+pandas
+scikit-learn
+scikit-optimize
+tensorflow
+matplotlib
+PyYAML
+joblib
